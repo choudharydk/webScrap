@@ -1,6 +1,6 @@
 # Web Scrapping using NodeJs.
 
-#to install dependency
+# to install dependency
  npm install
-#to run
+# to run
  npm start
